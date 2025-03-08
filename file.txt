@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 Main branch update
-=======
+
 Feature update
->>>>>>> feature-branch
+ feature-branch
